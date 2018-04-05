@@ -1,7 +1,9 @@
 {
-    "workbench.panel.location": "bottom",
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-    "editor.fontSize": 12,
-    "files.trimTrailingWhitespace": true,
-    "explorer.confirmDelete": false
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "files.trimTrailingWhitespace": true,
+  "explorer.confirmDelete": false
 }
