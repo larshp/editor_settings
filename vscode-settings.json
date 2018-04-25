@@ -5,5 +5,7 @@
   "editor.insertSpaces": true,
   "editor.detectIndentation": false,
   "files.trimTrailingWhitespace": true,
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "editor.autoClosingBrackets" : false,  
+  "git.enableSmartCommit": true
 }
