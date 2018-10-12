@@ -6,6 +6,8 @@
   "editor.detectIndentation": false,
   "files.trimTrailingWhitespace": true,
   "explorer.confirmDelete": false,
-  "editor.autoClosingBrackets" : false,  
+  "editor.autoClosingBrackets": "never",
+  "svgviewer.enableautopreview": true,
+  "svgviewer.previewcolumn": "Two",  
   "git.enableSmartCommit": true
 }
