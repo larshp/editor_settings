@@ -9,5 +9,9 @@
   "editor.autoClosingBrackets": "never",
   "svgviewer.enableautopreview": true,
   "svgviewer.previewcolumn": "Two",  
-  "git.enableSmartCommit": true
+  "git.enableSmartCommit": true,
+  "editor.minimap.enabled": false,
+  "editor.folding": false,
+  "editor.glyphMargin": false,
+  "editor.autoSurround": "never"
 }
