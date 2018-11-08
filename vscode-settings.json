@@ -13,5 +13,6 @@
   "editor.minimap.enabled": false,
   "editor.folding": false,
   "editor.glyphMargin": false,
-  "editor.autoSurround": "never"
+  "editor.autoSurround": "never",
+  "workbench.startupEditor": "none"  
 }
