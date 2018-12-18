@@ -15,5 +15,6 @@
   "editor.glyphMargin": false,
   "editor.autoSurround": "never",
   "html.autoClosingTags": false,
+  "editor.autoClosingQuotes": "never",
   "workbench.startupEditor": "none"  
 }
