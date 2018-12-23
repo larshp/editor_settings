@@ -16,5 +16,6 @@
   "editor.autoSurround": "never",
   "html.autoClosingTags": false,
   "editor.autoClosingQuotes": "never",
+  "editor.acceptSuggestionOnCommitCharacter": false,
   "workbench.startupEditor": "none"  
 }
