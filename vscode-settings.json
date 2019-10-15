@@ -17,5 +17,6 @@
   "emmet.showExpandedAbbreviation": "never",
   "editor.acceptSuggestionOnCommitCharacter": false,
   "breadcrumbs.enabled": false,
+  "asciidoc.preview.useEditorStyle": false,
   "workbench.startupEditor": "none"  
 }
