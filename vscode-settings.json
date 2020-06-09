@@ -19,5 +19,6 @@
   "breadcrumbs.enabled": false,
   "asciidoc.preview.useEditorStyle": false,
   "versionlens.suggestions.showOnStartup": true,
+  "editor.quickSuggestions": false,
   "workbench.startupEditor": "none"  
 }
